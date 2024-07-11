@@ -1,0 +1,12 @@
+{
+    "validUser":{
+        "userName":"maharjanpresha2@gmail.com",
+        "passWord":"You C@n't m="
+    },
+    "invalidUser":{
+        "userName":"maharjanpresha2@gmail.com",
+        "invalidEmail":"prawashmhrzn@gmail.com",
+        "password":"You C@n't m=",
+        "password>20Character":"test12367890123456789"
+    }
+}

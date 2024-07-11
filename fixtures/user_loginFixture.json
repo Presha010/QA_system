@@ -1,0 +1,40 @@
+{
+    "validUser":{
+        "username":"smithdaniel@gmail.com",
+        "password":"danielsmith"
+    },
+    "invalidUser":{
+        "username":"smithdaniel@gmail.com",
+        "invalidEmail":"praweshmhrzn@gmail.com",
+        "password":"danielsmith",
+        "password>20Character":"test12367890123456789"
+    },
+    "validcontact":{
+        "firstName":"Daniel",
+        "lastName":"Smith",
+        "date_of_birth":"2001-09-10",
+        "email":"smithdaniel@gmail.com",
+        "phone":"9766783678",
+        "streetAddress1":"Thankot",
+        "streetAddress2":"Kathmandu",
+        "city":"Kathmandu",
+        "state_or_province":"Bagmati",
+        "postalCode":"001",
+        "country":"Nepal"
+
+    },
+    "editcontact":{
+        "firstName":"Nisha",
+        "lastName":"Smith",
+        "date_of_birth":"2002-09-10",
+        "email":"smithnisha@gmail.com",
+        "phone":"9866783678",
+        "streetAddress1":"Nardevi",
+        "streetAddress2":"Central Kathmandu",
+        "city":"Kathmandu",
+        "state_or_province":"Bagmati",
+        "postalCode":"001",
+        "country":"Nepal"
+
+    }
+}
